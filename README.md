@@ -21,10 +21,18 @@ It ships with a built-in stealth layer engineered to defeat detection that also 
 ## Installation
 
 ```bash
-pip install -e ".[dev]"
+pip install noctra-browser
 ```
 
 Noctra Browser requires Python 3.11+ and a local Chrome or Chromium-compatible browser.
+
+To work on Noctra Browser itself, install from a clone with the development extras:
+
+```bash
+git clone https://github.com/EmirhanErsonmez/noctra-browser.git
+cd noctra-browser
+pip install -e ".[dev]"
+```
 
 ## Basic Usage
 
