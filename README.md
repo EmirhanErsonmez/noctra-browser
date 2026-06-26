@@ -1,5 +1,9 @@
 # Noctra Browser
 
+[![CI](https://github.com/EmirhanErsonmez/noctra-browser/actions/workflows/ci.yml/badge.svg)](https://github.com/EmirhanErsonmez/noctra-browser/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 Async Python browser automation framework powered by Chrome DevTools Protocol.
 
 ## Project Status
